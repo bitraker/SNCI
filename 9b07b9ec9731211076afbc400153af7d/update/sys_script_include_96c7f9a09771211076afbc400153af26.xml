@@ -14,6 +14,7 @@ snci_antivirus.prototype = {
 
 	testfunc: function() {
 		gs.debug('welcome to kebabistan');
+                gs.debug('test');
         return 'kebab';
 	}, 
 	
