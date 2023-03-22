@@ -7,13 +7,13 @@
         <client_callable>false</client_callable>
         <description/>
         <name>snci_identity</name>
-        <script><![CDATA[var snci_identity = Class.create();
+        <script>
+            <![CDATA[var snci_identity = Class.create();
 snci_identity.prototype = {
     initialize: function() {
     },
-
-    type: 'snci_identity'
-};]]></script>
+    // this is my amazing comment from vs code
+    type: 'snci_identity'};]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-03-22 09:54:13</sys_created_on>
