@@ -13,6 +13,7 @@ snci_identity.prototype = {
     initialize: function() {
     },
     // this is my amazing comment from vs code
+    // just a second comment
     type: 'snci_identity'};]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
