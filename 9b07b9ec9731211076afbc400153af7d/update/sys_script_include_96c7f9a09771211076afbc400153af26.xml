@@ -2,11 +2,11 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>public</access>
         <active>true</active>
-        <api_name>x_79270_snci.snci_antivirus</api_name>
+        <api_name>x_79270_snci.snci_antivirus_hovsa</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
         <description/>
-        <name>snci_antivirus</name>
+        <name>snci_antivirus_hovsa</name>
         <script><![CDATA[var snci_antivirus = Class.create();
 snci_antivirus.prototype = {
     initialize: function() {
